@@ -3,7 +3,7 @@ class Main {
 
         int speedOfPlayer = 5;
 
-        boolean isGreenLight = false;
+        boolean isGreenLight = true;
 
         if (isGreenLight) {
             System.out.println("Не выбыл");
