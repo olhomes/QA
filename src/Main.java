@@ -1,7 +1,7 @@
 class Main {
     public static void main(String[] args) {
 
-        int speedOfPlayer = 5;
+        int speedOfPlayer = 2;
 
         boolean isGreenLight = false;
 
